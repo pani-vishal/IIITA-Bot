@@ -1,0 +1,28 @@
+{
+  "name": "iiita-bot",
+  "version": "1.0.0",
+  "description": "IIITA Counselling page messenger bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falconis/IIITA-Bot.git"
+  },
+  "author": "ai_members",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/falconis/IIITA-Bot/issues"
+  },
+  "homepage": "https://github.com/falconis/IIITA-Bot#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  },
+  "engines": {
+    "node": "10.1.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
